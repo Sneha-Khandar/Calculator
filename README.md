@@ -46,4 +46,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
+For any questions or feedback, please reach out to [Sneha Khandar](https://github.com/Sneha-Khandar).
 
